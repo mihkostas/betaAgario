@@ -1,6 +1,6 @@
 **Dependencies:**
-  -python
-  -pygame
+  - python
+  - pygame
 run with:
 
         python3 testGameAgarioV001.py
